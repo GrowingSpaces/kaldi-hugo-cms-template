@@ -26,11 +26,7 @@ intro:
         to fall in love with in our shop.
     - image: /img/illustrations/tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        COFFEE IS GOOD.
     - image: /img/illustrations/meeting-space.svg
       text: >
         We believe that good coffee has the power to bring people together.
